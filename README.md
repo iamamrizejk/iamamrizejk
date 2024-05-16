@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrize JK</h1>
-<h3 align="center">A passionate frontend developer from Chennai</h3>
+<h3 align="center">A passionate Frontend Developer and Cloud Enthusiast</h3>
 <img align = "right" alt = "Coding" width = "400" src= "https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamamrizejk&label=Profile%20views&color=0e75b6&style=flat" alt="iamamrizejk" /> </p>
